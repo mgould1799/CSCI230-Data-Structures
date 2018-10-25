@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=void\ add(java.lang.Object)
+comment0.text=\n\ Appends\ the\ specified\ element\ to\ the\ end\ of\ this\ list.\n\ \n\ @param\ t\n
+comment1.params=index\ t
+comment1.target=void\ add(int,\ java.lang.Object)
+comment1.text=\n\ Inserts\ the\ specified\ element\ at\ the\ specified\ position\ in\ this\ list.\n\ \n\ @param\ index\n\ @param\ t\n\ @throws\ IndexOutOfBoundsException\n
+comment2.params=index\ t
+comment2.target=void\ set(int,\ java.lang.Object)
+comment2.text=\n\ Replaces\ the\ element\ at\ the\ specified\ position\ in\ this\ list\ with\ the\ specified\ element.\n\ \n\ @param\ index\n\ @param\ t\n\ @throws\ IndexOutOfBoundsException\n
+comment3.params=index
+comment3.target=java.lang.Object\ remove(int)
+comment3.text=\n\ Removes\ the\ element\ at\ the\ specified\ position\ in\ this\ list.\n\ \n\ @param\ index\n\ @return\n\ @throws\ IndexOutOfBoundsException\n
+comment4.params=index
+comment4.target=java.lang.Object\ get(int)
+comment4.text=\n\ Returns\ the\ element\ at\ the\ specified\ position\ in\ this\ list.\n\ \n\ @param\ index\n\ @return\n\ @throws\ IndexOutOfBoundsException\n
+comment5.params=
+comment5.target=int\ size()
+comment5.text=\n\ Returns\ the\ number\ of\ elements\ in\ this\ list.\ \n\ \n\ @return\n
+comment6.params=
+comment6.target=java.lang.Boolean\ isEmpty()
+comment6.text=\n\ Returns\ true\ if\ this\ list\ contains\ no\ elements.\n\ \n\ @return\n
+comment7.params=
+comment7.target=void\ clear()
+comment7.text=\n\ Removes\ all\ of\ the\ elements\ from\ this\ list.\n\ \n
+numComments=8

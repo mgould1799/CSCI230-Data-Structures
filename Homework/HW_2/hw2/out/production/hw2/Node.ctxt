@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=data
+comment0.target=Node(java.lang.Comparable)
+comment0.text=\n\ \n\ @param\ data\n
+comment1.params=data
+comment1.target=void\ setData(java.lang.Comparable)
+comment1.text=\n\ \n\ @param\ data\n
+comment2.params=
+comment2.target=java.lang.Comparable\ getData()
+comment2.text=\n\ \n\ @return\n
+comment3.params=nextNode
+comment3.target=void\ setNextNode(edu.cofc.csci230.Node)
+comment3.text=\n\ \n\ @param\ nextNode\n
+comment4.params=
+comment4.target=edu.cofc.csci230.Node\ getNextNode()
+comment4.text=\n\ \n\ @return\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ \n
+numComments=6
